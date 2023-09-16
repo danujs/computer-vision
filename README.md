@@ -1,2 +1,2 @@
-# computer-vision
-This is small projects in Computer Vision
+# Computer-Vision
+This is a small project in Computer Vision
