@@ -7,5 +7,5 @@ After consideration, then I will start crafting the CV topic from scratch.
 3. Show an image using [HSV](hsv.py) for the color space.
 4. Use  OpenCV's split function to [split](split.py) the image into each color index.
 5. Utilize [histogram](histogram.py) to visualize individual color components.
-6. Draw images and shapes. Starts by making a black [square](drawing-shape.py), then creates a [diagonal](draw-line.py) line. Furthermore, we can add several points and connect them to be a [Polyline](polylines.py).
+6. Draw images and shapes. Starts by making a black [square](drawing-shape.py), then creates a [diagonal](draw-line.py) line. By knowing that, then we can create basic [rectangle](rectangle.py) and [circle](circle.py). Furthermore, we can add several points and connect them to be a [Polyline](polylines.py).
 
