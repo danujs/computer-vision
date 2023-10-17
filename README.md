@@ -9,4 +9,5 @@ After consideration, then I will start crafting the CV topic from scratch.
 5. Utilize [histogram](histogram.py) to visualize individual color components.
 6. Draw images and shapes. Starts by making a black [square](drawing-shape.py), then creates a [diagonal](draw-line.py) line. By knowing that, then we can create basic [rectangle](rectangle.py) and [circle](circle.py). Furthermore, we can add several points and connect them to be a [Polyline](polylines.py).
 7. We can create [text](text.py) using cv2.putText. Additionally, we can define the starting point, the font type, size, color, and thickness.
+8. Next, learn how to shift the position of an image using [translation](translation.ipynb).
 
