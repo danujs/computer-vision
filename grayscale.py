@@ -3,7 +3,7 @@
 import cv2
 
 # Load our input image
-image = cv2.imread('onepeacelake.jpeg')
+image = cv2.imread('onepiecelake.jpeg')
 cv2.imshow('original', image)
 cv2.waitKey()
 
@@ -19,7 +19,7 @@ cv2.destroyAllWindows()
 import cv2
 
 # load our input image
-img = cv2.imread('onepeacelake.jpeg', 0)
+img = cv2.imread('onepiecelake.jpeg', 0)
 cv2.imshow('original', img)
 cv2.waitKey()
 cv2.destroyAllWindows()
